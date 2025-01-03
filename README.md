@@ -2,6 +2,7 @@
 ## 特别说明:
 FORK FROM https://github.com/lecepin/kindle-time
 解决分钟在 < 10 时显示为1位数的问题
+![image](https://github.com/user-attachments/assets/fbaddf3d-5492-4dd9-a45f-4ea7d3a4f221)
 
 
 以下为原README
