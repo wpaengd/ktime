@@ -1,3 +1,9 @@
+# FROM FROM https://github.com/lecepin/kindle-time
+解决分钟在 < 10 时显示为1位数的问题
+
+
+以下为原README
+
 # kindle-time
 
 Use the clock on your Kindle.
